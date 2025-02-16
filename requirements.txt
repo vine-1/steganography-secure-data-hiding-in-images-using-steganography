@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+numpy
+
+pip install -r requirements.txt
